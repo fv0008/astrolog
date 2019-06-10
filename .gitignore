@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+Astrolog.log
+*.VC.opendb
+*.VC.db
+*.suo
+*.htm
+*.tlog
+*.pdb
+*.ilk
+*.idb

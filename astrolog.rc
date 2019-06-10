@@ -1,13 +1,14 @@
 // Microsoft Visual C++ generated resource script.
 //
 #include "resource.h"
+#include "winres.h"
 
 #define APSTUDIO_READONLY_SYMBOLS
 /////////////////////////////////////////////////////////////////////////////
 //
 // Generated from the TEXTINCLUDE 2 resource.
 //
-#include "afxres.h"
+//#include "afxres.h"
 
 /////////////////////////////////////////////////////////////////////////////
 #undef APSTUDIO_READONLY_SYMBOLS
@@ -32,11 +33,11 @@ BEGIN
     "resource.h\0"
 END
 
-2 TEXTINCLUDE 
-BEGIN
-    "#include ""afxres.h""\r\n"
-    "\0"
-END
+	//2 TEXTINCLUDE 
+	//BEGIN
+	//"#include ""afxres.h""\r\n"
+	//"\0"
+	//END
 
 3 TEXTINCLUDE 
 BEGIN
